@@ -1,3 +1,9 @@
+/**
+
+pacakge info
+
+**/
+
 package com.padmesh.product.bo;
 
 import com.padmesh.product.dto.Product;
