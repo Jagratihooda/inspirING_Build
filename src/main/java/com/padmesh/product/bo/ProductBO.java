@@ -7,5 +7,4 @@ public interface ProductBO {
 	
 	public Product findProduct (int id);
 	
-
 }
